@@ -189,8 +189,8 @@ const options: TaggerPluginOptions = {
 ## Links
 
 - **npm Package**: https://www.npmjs.com/package/vite-component-tagger
-- **GitHub Repository**: https://github.com/Nilesh9106/vite-tagger
-- **Issues**: https://github.com/Nilesh9106/vite-tagger/issues
+- **GitHub Repository**: https://github.com/Nilesh9106/vite-component-tagger
+- **Issues**: https://github.com/Nilesh9106/vite-component-tagger/issues
 
 ## License
 
