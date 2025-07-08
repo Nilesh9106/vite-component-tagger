@@ -1,0 +1,41 @@
+# Source files
+src/
+*.ts
+!*.d.ts
+
+# Build config
+tsconfig.json
+tsup.config.ts
+vite.config.ts
+vitest.config.ts
+
+# Dev dependencies
+node_modules/
+pnpm-lock.yaml
+
+# Tests
+**/*.test.*
+**/*.spec.*
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env*
+
+# Git
+.git/
+.gitignore
+
+# Documentation drafts
+docs/
+examples/ 
