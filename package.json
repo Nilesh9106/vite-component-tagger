@@ -1,6 +1,6 @@
 {
   "name": "vite-component-tagger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vite plugin that tags JSX/TSX elements with component details for development and debugging",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
