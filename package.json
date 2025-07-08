@@ -40,12 +40,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nilesh9106/vite-tagger.git"
+    "url": "https://github.com/Nilesh9106/vite-component-tagger.git"
   },
   "bugs": {
-    "url": "https://github.com/Nilesh9106/vite-tagger/issues"
+    "url": "https://github.com/Nilesh9106/vite-component-tagger/issues"
   },
-  "homepage": "https://github.com/Nilesh9106/vite-tagger#readme",
+  "homepage": "https://github.com/Nilesh9106/vite-component-tagger#readme",
   "peerDependencies": {
     "vite": "^4.0.0 || ^5.0.0"
   },
